@@ -1,0 +1,2 @@
+username:12345 password:JavaPhp rate:750.00
+username:67890 password:C++Python rate:700.00
